@@ -1,7 +1,7 @@
 # Hi 👋, I am Austine Iheji, a Tech & Human-Centered Innovator
 
-* 🌐 Personal website: [https://austineiheji.com](https://austineiheji.vercel.app)
-* 💼 LinkedIn: [https://www.linkedin.com/in/austine-iheji/](https://www.linkedin.com/in/austineiheji/)
+* 🌐 Personal website: [Personal website](https://austineiheji.vercel.app)
+* 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/austineiheji/)
 * 🎓 Computer Science Student at Ashesi University, Ghana.
 * 🚀 Co-Founder of Grow Africa Eat Africa - Developing sustainable storage solutions for African farmers
 * 🚀 Founder of HealingCells, a cancer support platform
