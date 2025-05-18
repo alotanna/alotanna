@@ -1,94 +1,47 @@
-# Austine Iheji | Personal Portfolio
+# Hi 👋, I am Austine Iheji, a Tech & Human-Centered Innovator
 
-![Portfolio Banner](images/portfolio-banner.png)
+* 🌐 Personal website: [https://austineiheji.com](https://austineiheji.com)
+* 💼 LinkedIn: [https://www.linkedin.com/in/austine-iheji/](https://www.linkedin.com/in/austine-iheji/)
+* 🎓 Master's Student in Human-Computer Interaction at Imperial College London
+* 🚀 Co-Founder of Grow Africa Eat Africa - Developing sustainable storage solutions for African farmers
+* 🏆 Winner of 2023 HackForGood Challenge - Developed HealingCells cancer support platform
+* 📊 Kaggle profile: [https://www.kaggle.com/austineiheji](https://www.kaggle.com/austineiheji)
 
-## 📌 Overview
+## Featured Projects
 
-A modern, responsive portfolio website showcasing my projects, skills, and professional journey as a Tech & Human-Centered Innovator. Built with HTML, CSS, and JavaScript, this portfolio features a space-themed design with smooth animations and interactive elements.
+### HealingCells – Cancer Support Platform
+A web platform supporting cancer patients, survivors, and caregivers with reliable resources and emotional support. Designed based on research with actual patients to address emotional and informational needs.
 
-[🔗 Live Demo](https://austineiheji.com) | [📧 Contact Me](mailto:your-email@example.com)
+- **Technologies:** HTML, CSS, JavaScript, PHP, MySQL
+- **Links:** [Live Demo](http://austineiheji.great-site.net/) | [GitHub Repository](https://github.com/alotanna/cancerwebsite.git)
 
-![Portfolio Preview](images/portfolio-preview.gif)
+### Grow Africa Eat Africa
+Co-founded an initiative developing sustainable clay brick storage chambers to reduce post-harvest losses and extend crop shelf life for smallholder farmers across Africa.
 
-## ✨ Features
+- **Areas:** Sustainability, Agriculture, Field Research, Product Design
+- **Links:** [Project Details](https://www.canva.com/design/DAGnyFR38AQ/VXkQ8SHAzzlX1a6pYfNe2w/view)
 
-- **Responsive Design** - Fully optimized for all devices from mobile to desktop
-- **Interactive UI** - Smooth animations and transitions enhance user experience
-- **Project Showcase** - Detailed project cards with links to live demos and code repositories
-- **Dark Space Theme** - Modern aesthetic with a cosmic touch
-- **Contact Form** - Direct communication channel for visitors
-- **Skills Visualization** - Visual representation of technical and soft skills
+## Skills
 
-## 🛠️ Technologies
+### Programming & Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white" alt="Font Awesome" />
-</div>
+### Design & Research
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![User Research](https://img.shields.io/badge/User%20Research-00C4CC?style=for-the-badge&logo=research&logoColor=white)
+![Human-Centered Design](https://img.shields.io/badge/HCD-0ACF83?style=for-the-badge&logo=design&logoColor=white)
 
-## 📂 Project Structure
+## Connect With Me
 
-```
-portfolio-website/
-├── index.html           # Main HTML file
-├── css/
-│   └── styles.css       # Main stylesheet
-├── js/
-│   └── main.js          # JavaScript functionality
-├── images/              # Project images and assets
-└── README.md            # Project documentation
-```
-
-## 🚀 Getting Started
-
-### Prerequisites
-- A web browser
-- Basic knowledge of HTML, CSS, and JavaScript (for modifications)
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/portfolio-website.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd portfolio-website
-   ```
-3. Open `index.html` in your browser or set up a local server.
-
-## 🔧 Customization
-
-1. **Personal Information**: Update the content in `index.html` with your details.
-2. **Styling**: Modify the CSS variables in `styles.css` to change colors and overall theme.
-3. **Projects**: Add or remove project cards in the projects section of `index.html`.
-4. **Images**: Replace image placeholders in the `images` folder with your own.
-
-## 📊 Project Stats
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/portfolio-website?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/portfolio-website?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/portfolio-website)
-![GitHub contributors](https://img.shields.io/github/contributors/yourusername/portfolio-website)
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👏 Acknowledgements
-
-- [Font Awesome](https://fontawesome.com/) for the icons
-- [Google Fonts](https://fonts.google.com/) for the typography
-- [Unsplash](https://unsplash.com/) for stock images (if used)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/austine-iheji/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/austineiheji)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
 
-<div align="center">
-  <p>Designed & Developed with ❤️ by Austine Iheji</p>
-  <p>
-    <a href="https://linkedin.com/in/yourusername">LinkedIn</a> •
-    <a href="https://twitter.com/yourusername">Twitter</a> •
-    <a href="https://instagram.com/yourusername">Instagram</a>
-  </p>
-</div>
+📍 London, UK
