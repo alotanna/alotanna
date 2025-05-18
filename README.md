@@ -5,17 +5,6 @@
 * 🚀 Co-Founder of Grow Africa Eat Africa - Developing sustainable storage solutions for African farmers
 * 🚀 Founder of HealingCells, a cancer support platform
 
-## Featured Projects
-### HealingCells – Cancer Support Platform
-A web platform supporting cancer patients, survivors, and caregivers with reliable resources and emotional support. Designed based on research with actual patients to address emotional and informational needs.
-- **Technologies:** HTML, CSS, JavaScript, PHP, MySQL
-- **Links:** [Live Demo](http://austineiheji.great-site.net/) | [GitHub Repository](https://github.com/alotanna/cancerwebsite.git)
-
-### Grow Africa Eat Africa
-Co-founded an initiative developing sustainable clay brick storage chambers to reduce post-harvest losses and extend crop shelf life for smallholder farmers across Africa.
-- **Areas:** Sustainability, Agriculture, Field Research, Product Design
-- **Links:** [Project Details](https://www.canva.com/design/DAGnyFR38AQ/VXkQ8SHAzzlX1a6pYfNe2w/view)
-
 ## Skills
 ### Programming & Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
