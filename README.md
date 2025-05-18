@@ -2,8 +2,8 @@
 * 🌐 Personal website: [Link to Portfolio](https://austineiheji.vercel.app)
 * 💼 LinkedIn: [Link to LinkedIn](https://www.linkedin.com/in/austineiheji/)
 * 🎓 Computer Science Student at Ashesi University, Ghana.
-* 🚀 Co-Founder of Grow Africa Eat Africa - Developing sustainable storage solutions for African farmers
-* 🚀 Founder of HealingCells, a cancer support platform
+* 🚀 Co-Founder of Grow Africa Eat Africa - Developing sustainable storage solutions for African farmers. [Project Details](https://www.canva.com/design/DAGnyFR38AQ/VXkQ8SHAzzlX1a6pYfNe2w/view)
+* 🚀 Founder of HealingCells, a cancer support platform. [Live Demo](http://austineiheji.great-site.net/) | [GitHub Repository](https://github.com/alotanna/cancerwebsite.git)
 
 ## Skills
 ### Programming & Development
