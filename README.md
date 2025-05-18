@@ -1,6 +1,6 @@
 # Hi 👋, I am Austine Iheji, a Tech & Human-Centered Innovator
 * 🌐 Personal website: [Link to Portfolio](https://austineiheji.vercel.app)
-* 💼 LinkedIn: [Link to LinkedIn](https://www.linkedin.com/in/austineiheji/)
+* 💼 LinkedIn: [Link to LinkedIn](https://www.linkedin.com/in/austine-lotanna-iheji/)
 * 🎓 Computer Science Student at Ashesi University, Ghana.
 * 🚀 Co-Founder of Grow Africa Eat Africa - Developing sustainable storage solutions for African farmers. [Project Details](https://www.canva.com/design/DAGnyFR38AQ/VXkQ8SHAzzlX1a6pYfNe2w/view)
 * 🚀 Founder of HealingCells, a cancer support platform. [Live Demo](http://austineiheji.great-site.net/) | [GitHub Repository](https://github.com/alotanna/cancerwebsite.git)
@@ -44,7 +44,7 @@
 ![Logisim](https://img.shields.io/badge/Logisim-9C432D?style=for-the-badge&logo=logisim&logoColor=white)
 
 ## Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/austine-iheji/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/austine-lotanna-iheji/)
 [![Email](https://img.shields.io/badge/Personal_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:austineihejiben12@gmail.com)
 [![Email](https://img.shields.io/badge/Academic_Email-4285F4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:austine.iheji@ashesi.edu.gh)
 
