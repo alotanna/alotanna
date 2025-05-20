@@ -35,7 +35,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![User Research](https://img.shields.io/badge/User%20Research-00C4CC?style=for-the-badge&logo=research&logoColor=white)
-![Human-Centered Design](https://img.shields.io/badge/HCD-0ACF83?style=for-the-badge&logo=design&logoColor=white)
 ![Problem-Solving](https://img.shields.io/badge/Problem_Solving-FFA500?style=for-the-badge&logo=thinking&logoColor=white)
 
 ### Hardware
